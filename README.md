@@ -1,8 +1,6 @@
-# Monokai theme
+# Monokai theme for Ubuntu
 
-A monokai syntax theme for Atom.
+A monokai syntax theme for Atom on Ubuntu.
 
-Originally converted from the [TextMate](http://www.monokai.nl/blog/wp-content/asdev/Monokai.tmTheme)
-theme using the [TextMate bundle converter](http://atom.io/docs/latest/converting-a-text-mate-theme).
+![monokai](https://cloud.githubusercontent.com/assets/697622/3489290/fda5d088-0522-11e4-8d25-ca0b1526c514.png)
 
-![](https://f.cloud.github.com/assets/671378/2265671/d02ebee8-9e85-11e3-9b8c-12b2cb7015e3.png)
